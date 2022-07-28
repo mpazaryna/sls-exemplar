@@ -11,3 +11,4 @@ functions:
       - http:
           path: exemplar
           method: post
+          cors: true
