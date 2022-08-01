@@ -6,9 +6,16 @@ provider:
 
 functions:
   exemplar:
-    handler: handler.endpoint
+    handler: src/exemplar.endpoint
     events:
       - http:
           path: exemplar
+          method: post
+          cors: true
+  buyer-choice:
+    handler: src/buyer-choice/handler.endpoint
+    events:
+      - http:
+          path: buyer-choice
           method: post
           cors: true

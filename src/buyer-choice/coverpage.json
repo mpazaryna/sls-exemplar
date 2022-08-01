@@ -1,0 +1,14 @@
+{
+    "title": "Christee Report: Buyer Choice",
+    "doc_id": "7o41v",
+    "agent_name": "Jackie Matera",
+    "agent_phone": "333-333-3333",
+    "loan_officer_name": "Lori Jo Robiston",
+    "loan_officer_phone": "333-333-3232",
+    "email": "mpazbot@gmail.com",
+    "name": "Filly J Bobasone",
+    "phone": "202-999-9090",
+    "taxesPrompt": "Monthly Property Taxes (Estimated)",
+    "insurancePrompt": "Monthly Property Ins (Estimated)",
+    "purchasePricePrompt": "Purchase Price"
+}
